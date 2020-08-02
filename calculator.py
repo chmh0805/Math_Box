@@ -13,3 +13,6 @@ def divide(a, b):
 
 def square_new(a, b):
 	return a ** b
+
+def say_hello():
+	print("Hello!")
