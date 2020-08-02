@@ -13,6 +13,3 @@ def divide(a, b):
 
 def square_free(a, b):
 	print("It's for premium")
-
-def round(a, b):
-	return round(a, b)
