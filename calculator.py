@@ -11,6 +11,7 @@ def multiply(a, b):
 def divide(a, b):
 	return a / b
 
+<<<<<<< Updated upstream
 def square_new(a, b):
 	return a ** b
 
@@ -25,3 +26,7 @@ def get_Abs(num):
 		return num
 	else:
 		return -num
+
+def get_Percent(a, b):
+	return (a/b) * 100
+
